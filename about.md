@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: 안녕하세요
 permalink: /about/
 ---
-
-## 안녕하세요  
 
 저는 현재 42seoul 이라는 단체에서 컴퓨터를 공부하는 학생입니다.  
 <br>

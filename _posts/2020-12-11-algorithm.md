@@ -1,9 +1,7 @@
 ---
 layout: post
-title: 백준 A + B
-subtitle: [TIL01 1000번]
+title: TIL01 백준 1000번 A + B
 thumbnail-img: ../images/algorithm.png
-tags: [TIL, 알고리즘, C]
 comments: true
 ---
 ## 문제  

@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Notion을 Git 블로그로 옮기기
-subtitle: [TIL02 Tech]
 thumbnail-img: ../images/task.png
-tags: [TIL, Tech, Notion, 블로그]
 comments: true
 ---
+### TIL 02
 ## Notion을 활용해 블로그 포스팅을 하자  
 
 약 2달 전부터 Notion을 사용하다가 얼마 전 시작한 깃허브 블로그 때문에 마크다운 언어로 포스팅을 해보았다.  
